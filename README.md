@@ -3,6 +3,8 @@
 
 This project is developed for a competition organized by the prestigious **IEEE WIE club** at my college, **Manipal University Jaipur**.
 
+![image](https://github.com/user-attachments/assets/11727366-9cac-442f-99ca-bfd9eb93e64f)
+
 **Overview**
 
 This project leverages Streamlit and the Together API to generate images from text-based prompts efficiently. The tool provides an intuitive interface for users to input text prompts and receive AI-generated images in real time.
